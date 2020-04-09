@@ -1,0 +1,11 @@
+C:\Users\matth\source\repos\Homework3_McConahy\Homework3_McConahy\bin\Debug\Homework3_McConahy.exe.config
+C:\Users\matth\source\repos\Homework3_McConahy\Homework3_McConahy\bin\Debug\Homework3_McConahy.exe
+C:\Users\matth\source\repos\Homework3_McConahy\Homework3_McConahy\bin\Debug\Homework3_McConahy.pdb
+C:\Users\matth\source\repos\Homework3_McConahy\Homework3_McConahy\bin\Debug\Homework3_McConahy.xml
+C:\Users\matth\source\repos\Homework3_McConahy\Homework3_McConahy\obj\Debug\Homework3_McConahy.vbprojAssemblyReference.cache
+C:\Users\matth\source\repos\Homework3_McConahy\Homework3_McConahy\obj\Debug\Homework3_McConahy.Resources.resources
+C:\Users\matth\source\repos\Homework3_McConahy\Homework3_McConahy\obj\Debug\Homework3_McConahy.vbproj.GenerateResource.cache
+C:\Users\matth\source\repos\Homework3_McConahy\Homework3_McConahy\obj\Debug\Homework3_McConahy.exe
+C:\Users\matth\source\repos\Homework3_McConahy\Homework3_McConahy\obj\Debug\Homework3_McConahy.xml
+C:\Users\matth\source\repos\Homework3_McConahy\Homework3_McConahy\obj\Debug\Homework3_McConahy.pdb
+C:\Users\matth\source\repos\Homework3_McConahy\Homework3_McConahy\obj\Debug\Homework3_McConahy.MainForm.resources
