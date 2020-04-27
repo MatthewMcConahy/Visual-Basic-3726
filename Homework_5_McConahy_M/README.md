@@ -1,6 +1,18 @@
 Homework 5:
 
-Due 4/27/2020
+Due 4/29/2020
+
+Concepts Used below:
+
+-Properties 
+
+-Getters and Setters
+
+-Functions
+
+-Class inheritance
+
+
 
 This homework was to create a static webpage using VB to give buttons functionality.
 
